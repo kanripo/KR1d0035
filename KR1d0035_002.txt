@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮集說
-#+DATE: 2015-09-23 09:37:47
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:08:48.430770
+#+PROPERTY: ID KR1d0035
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1d0035_WYG_002-1a>¶
 欽定四庫全書¶
 　儀禮集說卷二　　　　　元　敖繼公　撰¶
@@ -1186,4 +1188,3 @@
 　鄭本純作肫注曰肫或作純則是當時或本有作肫¶
 　者也案少牢饋食禮云腊一純者二然則此亦當作¶
 　純明矣今以或本為正改肫作純¶
-

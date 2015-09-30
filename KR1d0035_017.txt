@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮集說
-#+DATE: 2015-09-23 09:37:47
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 22:08:48.881668
+#+PROPERTY: ID KR1d0035
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十七
 <pb:KR1d0035_WYG_017-1a>¶
 欽定四庫全書¶
 　儀禮集說卷十七　　　　元　敖繼公　撰¶
@@ -1173,4 +1175,3 @@
 每條之下者乎由是言之則予之不敢用通解之法也¶
 亦冝矣又何足怪焉大徳辛丑仲秋望日長樂敖繼公¶
 書¶
-

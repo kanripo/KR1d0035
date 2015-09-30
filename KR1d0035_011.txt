@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮集說
-#+DATE: 2015-09-23 09:37:47
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:08:48.695398
+#+PROPERTY: ID KR1d0035
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1d0035_WYG_011-1a>¶
 欽定四庫全書¶
 　儀禮集說卷十一　　　　元　敖繼公　撰¶
@@ -2129,4 +2131,3 @@
 <pb:KR1d0035_WYG_011-119a>¶
 　故予亦不敢妄有釐正也姑識於此以俟後之君子¶
 　云¶
-

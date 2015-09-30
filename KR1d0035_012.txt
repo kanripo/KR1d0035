@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮集說
-#+DATE: 2015-09-23 09:37:47
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:08:48.737810
+#+PROPERTY: ID KR1d0035
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1d0035_WYG_012-1a>¶
 欽定四庫全書¶
 　儀禮集説巻十二　　　　元　敖繼公　撰¶
@@ -1421,4 +1423,3 @@
 　鄭本于下有宇字繼公謂宇屋檐也不宜與西階上¶
 　連文宇字蓋因于字而衍也周官小祝職鄭司農注¶
 　引此無宇字今以為據刪之¶
-
